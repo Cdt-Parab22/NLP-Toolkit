@@ -40,7 +40,7 @@ An all-in-one Streamlit application for analysing, summarising, and extracting i
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+https://github.com/Cdt-Parab22/NLP-Toolkit.git
 cd YOUR-REPOSITORY
 ```
 

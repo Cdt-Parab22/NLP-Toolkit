@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+vaderSentiment
+numpy
+pandas
+youtube-transcript-api

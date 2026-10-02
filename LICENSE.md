@@ -1,6 +1,6 @@
 # Proprietary Use and Attribution License
 
-Copyright (c) 2026 Pranav Parab. All rights reserved.
+Copyright (c) 2026 Pranav Vijaykumar Parab. All rights reserved.
 
 ## 1. Permission to use
 
@@ -23,11 +23,11 @@ Without prior written permission from the copyright owner, you may not:
 
 Any permitted public reference to this software must acknowledge:
 
-> Created by Pranav Parab.
+> Created by Pranav Vijaykumar Parab.
 
 ## 4. Ownership
 
-All intellectual-property rights, including copyright, source code, branding, design, and documentation, remain the exclusive property of Pranav Parab.
+All intellectual-property rights, including copyright, source code, branding, design, and documentation, remain the exclusive property of Pranav Vijaykumar Parab.
 
 ## 5. Termination
 
